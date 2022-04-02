@@ -1,0 +1,10 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "CPTheme",
+    "theme_version": "1.0.0",
+    "theme_author": "Lucas Sallada",
+    "theme_documentation_url": "https://sallada.org/",
+    "theme_support_url": "https://github.com/Shopify/themekit/issues"
+  }
+]
